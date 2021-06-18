@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Manish
+#### I am climate thinker
+![I am climate thinker](https://www.e-ir.info/wp-content/uploads/fly-images/63520/Image-by-Joe-Brusky-825x465-c.png)
 
-<!--
-**manishdhasmana49/manishdhasmana49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research interestests include modeling of surface water systems, Extreme event attribution analysis, reservoir operation, optimization,  flood risk, climate change, remote sensing, machine learning, and spatial analysis.
 
-Here are some ideas to get you started:
+Skills: Python / C++ / R / Earth engine 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
