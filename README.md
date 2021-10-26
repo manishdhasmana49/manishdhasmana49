@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Manish
-#### I am climate thinker
+####
 
 My research interestests include modeling of surface water systems, Extreme event attribution analysis, reservoir operation, optimization,  flood risk, climate change, remote sensing, machine learning, and spatial analysis.
 
